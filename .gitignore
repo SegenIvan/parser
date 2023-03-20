@@ -1,0 +1,14 @@
+
+parser/target/
+database.mv
+database.mv.db
+database.trace.db
+/target/
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+
+*.idea
